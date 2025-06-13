@@ -25,3 +25,8 @@ I’m John Mark Morallos, a recent graduate with a Bachelor of Science in Comput
 [![](https://visitcount.itsvg.in/api?id=jmmorallos19&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jmmorallos19/jmmorallos19/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jmmorallos19/jmmorallos19/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
