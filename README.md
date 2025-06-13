@@ -112,8 +112,9 @@
 
 ### 👁 Visitor Counter  
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=jmmorallos19&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/jmmorallos19/count.svg" alt="Visitor Counter" />
 </p>
+
 
 ---
 
