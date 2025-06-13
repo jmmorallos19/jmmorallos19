@@ -105,18 +105,5 @@
 
 ---
 
-### 📊 Contribution Tracker
-![](https://github-contributor-stats.vercel.app/api?username=jmmorallos19&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-### 👁 Visitor Counter  
-<p align="center">
-  <img src="https://profile-counter.glitch.me/jmmorallos19/count.svg" alt="Visitor Counter" />
-</p>
-
-
----
-
 <!-- Proudly created with GPRM: https://gprm.itsvg.in -->
 
