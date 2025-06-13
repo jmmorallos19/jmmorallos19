@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
 </p>
----
+
 
 ### 💫 About Me:
 🎓 Fresh graduate with a **Bachelor of Science in Computer Science**  
